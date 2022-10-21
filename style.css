@@ -61,7 +61,7 @@ body{
     border: none;
     outline: none;
     color: white;
-    padding: 15px 0;
+    padding: 15px 15px;
     font-size: 17px;
     border-radius: 5px;
     width: calc(80% / 2 - 10px);
