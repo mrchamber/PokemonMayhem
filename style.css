@@ -64,9 +64,9 @@ body{
     padding: 15px 0;
     font-size: 17px;
     border-radius: 5px;
-    width: calc(100% / 2 - 8px);
+    width: calc(100% / 2 - 4px);
 }
-.buttons .refresh-topic{
+.buttons .refresh-pokemon{
     background: #FFD700;
 }
 .buttons .check-word{
