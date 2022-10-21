@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fd15eef-d21a-4881-8dcc-a42f90b7bda6" name="Changes" comment="" />
+    <list default="true" id="2fd15eef-d21a-4881-8dcc-a42f90b7bda6" name="Changes" comment="added button">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +39,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666369123024</updated>
-      <workItem from="1666369124455" duration="472000" />
+      <workItem from="1666369124455" duration="535000" />
     </task>
+    <task id="LOCAL-00001" summary="added button">
+      <created>1666369607476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666369607476</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added button" />
+    <option name="LAST_COMMIT_MESSAGE" value="added button" />
   </component>
 </project>
