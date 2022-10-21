@@ -13,7 +13,7 @@ body{
     background: #0B3142;
 }
 .container{
-    width: 850px;
+    width: 650px;
     border-radius: 7px;
     background: white;
 }
@@ -64,7 +64,7 @@ body{
     padding: 15px 0;
     font-size: 17px;
     border-radius: 5px;
-    width: calc(100% / 2 - 4px);
+    width: calc(100% / 2 - 10px);
 }
 .buttons .refresh-pokemon{
     background: #1B1B1E;
