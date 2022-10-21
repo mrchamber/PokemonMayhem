@@ -64,7 +64,7 @@ body{
     padding: 15px 0;
     font-size: 17px;
     border-radius: 5px;
-    width: calc(100% / 2 - 10px);
+    width: calc(80% / 2 - 10px);
 }
 .buttons .refresh-pokemon{
     background: #1B1B1E;
