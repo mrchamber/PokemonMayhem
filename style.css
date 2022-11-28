@@ -10,10 +10,10 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #0B3142;
+    background: #FB1B1B;
 }
 .container{
-    width: 650px;
+    width: 450px;
     border-radius: 7px;
     background: white;
 }
@@ -60,18 +60,28 @@ body{
 .buttons button{
     border: none;
     outline: none;
-    color: white;
-    padding: 15px 15px;
+    color: #000000;
+    padding: 15px 0;
     font-size: 17px;
     border-radius: 5px;
-    width: calc(80% / 2 - 10px);
+    width: calc(100% / 2 - 8px);
 }
 .buttons .refresh-pokemon{
-    background: #1B1B1E;
+    background: #DFDFDF;
 }
 .buttons .check-word{
-    background: #0B3142;
+    background: #DFDFDF;
 }
-.buttons .back-profile{
-    background: #FFD700;
+.footer{
+    position:fixed;
+    bottom:10px;
+}
+.footer:hover{
+    cursor: pointer;
+}
+.check-word:hover{
+    cursor: pointer;
+}
+.refresh-pokemon:hover{
+    cursor: pointer;
 }
